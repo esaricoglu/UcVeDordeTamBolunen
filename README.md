@@ -1,2 +1,2 @@
 # UcVeDordeTamBolunen
-Patika.dev Java 101 eğitimi kapsamında oluşturulan üç ve dörde tam bölünen sayıların ortalamasını hrsaplayan program.
+[Patika.dev](https://www.patika.dev) [Java 101](https://app.patika.dev/courses/java101) eğitimi kapsamında oluşturulan üç ve dörde tam bölünen sayıların ortalamasını hesaplayan program.
